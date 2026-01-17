@@ -1,0 +1,1 @@
+web: fastapi dev app/backend/main.py
